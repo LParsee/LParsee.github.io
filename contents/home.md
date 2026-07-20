@@ -29,9 +29,11 @@ Email: Parseenyan@163.com
 #### Experience
 
 - **2024.9-Present** State Key Laboratory of Human-Machine Hybrid Augmented Intelligence: Research on computer vision and perception tasks  
+
   2024.9-现在 人机混合增强智能国家重点实验室：计算机视觉与感知任务研究
 
 - **2026.5-Present** ByteDance: XR scene perception enhancement and multi-agent interaction development internship.
+
   2026.5-现在 字节跳动：XR 场景感知增强与多 Agent 交互开发实习
 
 
