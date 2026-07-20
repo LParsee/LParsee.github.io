@@ -14,9 +14,6 @@ Computer Vision, Computer Graphics, and Machine Learning
 
 
 
-#### Contact
-
-Email: Parseenyan@163.com
 
 #### Education
 - **2020.8-2024.6** B.Sc. in Information and Computing Science, School of Mathematics and Statistics, Xi'an Jiaotong University  
@@ -32,9 +29,9 @@ Email: Parseenyan@163.com
 
   2024.9-现在 人机混合增强智能国家重点实验室：计算机视觉与感知任务研究
 
-- **2026.5-Present** ByteDance: XR scene perception enhancement and multi-agent interaction development internship.
+- **2026.5-Present** ByteDance: XR development:scene perception enhancement and multi-agent interaction development internship.
 
-  2026.5-现在 字节跳动：XR 场景感知增强与多 Agent 交互开发实习
+  2026.5-现在 字节跳动：XR开发，场景感知增强与多 Agent 交互开发实习
 
 
 
@@ -43,3 +40,9 @@ Email: Parseenyan@163.com
 My current work focuses on computer vision, computer graphics, and artificial intelligence application, with particular interests in scene reconstruction, augmented reality, and geometry optimization.
 
 目前主要从事计算机视觉、图形学与人工智能应用相关研究，重点关注场景重建、增强现实任务，几何优化任务等。
+
+
+
+#### Contact Me
+
+Email: Parseenyan@163.com
