@@ -1,12 +1,5 @@
+- **2025** First-Class Scholarship, School of Artificial Intelligence, Xi'an Jiaotong University  
+  2025 西安交通大学人工智能学院一等奖学金
 
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- **2025** National Second Prize, China Collegiate Computing Contest - Big Data Challenge  
+  2025 中国高校计算机大赛 - 大数据挑战赛全国二等奖
