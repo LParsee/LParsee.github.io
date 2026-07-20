@@ -182,6 +182,24 @@ section .main-body{
     line-height: 2.4rem;
 }
 
+section .main-body h4 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+section .main-body p {
+    margin-bottom: 1.25rem;
+}
+
+section .main-body ul {
+    margin-bottom: 1.5rem;
+    padding-left: 1.4rem;
+}
+
+section .main-body li {
+    margin-bottom: 0.9rem;
+}
+
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
