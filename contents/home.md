@@ -29,10 +29,12 @@ Computer Vision, Computer Graphics, and Machine Learning
 
   2024.9-现在 人机混合增强智能国家重点实验室：计算机视觉与感知任务研究
 
-- **2026.5-Present** ByteDance: XR development:scene perception enhancement and multi-agent interaction development internship.
+<!--
+- **2026.5-Present** ByteDance: XR development:scene perception enhancement and multi-agent interaction #development internship.
 
   2026.5-现在 字节跳动：XR开发，场景感知增强与多 Agent 交互开发实习
 
+-->
 
 
 #### Research Overview
